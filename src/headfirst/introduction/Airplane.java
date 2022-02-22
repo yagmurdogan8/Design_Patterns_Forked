@@ -2,7 +2,7 @@ package headfirst.introduction;
 
 public class Airplane {
 
-    public int speed;
+    private int speed;
 
     public Airplane() {
     }
